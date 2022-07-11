@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="181383" started-at="2022-07-11T05:43:15Z" finished-at="2022-07-11T05:46:16Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="181383" started-at="2022-07-11T05:43:15Z" finished-at="2022-07-11T05:46:16Z">
+      <class name="com.sample.LoginPage">
+        <test-method status="PASS" signature="open()[pri:0, instance:com.sample.LoginPage@57fffcd7]" name="open" is-config="true" duration-ms="44788" started-at="2022-07-11T05:43:19Z" finished-at="2022-07-11T05:44:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open -->
+        <test-method status="PASS" signature="login(java.lang.String, java.lang.String)[pri:0, instance:com.sample.LoginPage@57fffcd7]" name="login" duration-ms="6976" started-at="2022-07-11T05:44:04Z" data-provider="loginData" finished-at="2022-07-11T05:44:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[smithwills1989@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[12345678]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="screen()[pri:0, instance:com.sample.LoginPage@57fffcd7]" name="screen" is-config="true" duration-ms="6955" started-at="2022-07-11T05:44:11Z" finished-at="2022-07-11T05:44:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- screen -->
+        <test-method status="PASS" signature="open()[pri:0, instance:com.sample.LoginPage@57fffcd7]" name="open" is-config="true" duration-ms="36310" started-at="2022-07-11T05:44:17Z" finished-at="2022-07-11T05:44:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open -->
+        <test-method status="PASS" signature="login(java.lang.String, java.lang.String)[pri:0, instance:com.sample.LoginPage@57fffcd7]" name="login" duration-ms="880" started-at="2022-07-11T05:44:54Z" data-provider="loginData" finished-at="2022-07-11T05:44:55Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[smithwills1989@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[67855859]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="screen()[pri:0, instance:com.sample.LoginPage@57fffcd7]" name="screen" is-config="true" duration-ms="3727" started-at="2022-07-11T05:44:55Z" finished-at="2022-07-11T05:44:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- screen -->
+        <test-method status="PASS" signature="open()[pri:0, instance:com.sample.LoginPage@57fffcd7]" name="open" is-config="true" duration-ms="22737" started-at="2022-07-11T05:44:58Z" finished-at="2022-07-11T05:45:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open -->
+        <test-method status="PASS" signature="login(java.lang.String, java.lang.String)[pri:0, instance:com.sample.LoginPage@57fffcd7]" name="login" duration-ms="1354" started-at="2022-07-11T05:45:21Z" data-provider="loginData" finished-at="2022-07-11T05:45:22Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[smithwills1999@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[12345678]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="screen()[pri:0, instance:com.sample.LoginPage@57fffcd7]" name="screen" is-config="true" duration-ms="4121" started-at="2022-07-11T05:45:22Z" finished-at="2022-07-11T05:45:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- screen -->
+        <test-method status="PASS" signature="open()[pri:0, instance:com.sample.LoginPage@57fffcd7]" name="open" is-config="true" duration-ms="19826" started-at="2022-07-11T05:45:27Z" finished-at="2022-07-11T05:45:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open -->
+        <test-method status="PASS" signature="login(java.lang.String, java.lang.String)[pri:0, instance:com.sample.LoginPage@57fffcd7]" name="login" duration-ms="1581" started-at="2022-07-11T05:45:46Z" data-provider="loginData" finished-at="2022-07-11T05:45:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[smithwills2000@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[67858596]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="screen()[pri:0, instance:com.sample.LoginPage@57fffcd7]" name="screen" is-config="true" duration-ms="3529" started-at="2022-07-11T05:45:48Z" finished-at="2022-07-11T05:45:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- screen -->
+        <test-method status="PASS" signature="open()[pri:0, instance:com.sample.LoginPage@57fffcd7]" name="open" is-config="true" duration-ms="19753" started-at="2022-07-11T05:45:52Z" finished-at="2022-07-11T05:46:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open -->
+        <test-method status="PASS" signature="login(java.lang.String, java.lang.String)[pri:0, instance:com.sample.LoginPage@57fffcd7]" name="login" duration-ms="1024" started-at="2022-07-11T05:46:11Z" data-provider="loginData" finished-at="2022-07-11T05:46:12Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="screen()[pri:0, instance:com.sample.LoginPage@57fffcd7]" name="screen" is-config="true" duration-ms="3638" started-at="2022-07-11T05:46:12Z" finished-at="2022-07-11T05:46:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- screen -->
+      </class> <!-- com.sample.LoginPage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
